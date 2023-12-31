@@ -1,9 +1,8 @@
-var topics = "HTML, CSS, Git, JavaScript";
-console.log(topics);
-var topics = ["triangle", "square", "pentagon", "circle"];
-for(var x = 0; x < shapes.length; x++) {
- console.log(topics[x]);
-}
+var topics = ["HTML", "CSS", "Git", "JavaScript"];
+for(var x = 0; x < topics.length; x++) {
+    console.log(topics[x]);
+   }
+
 /*
 if (topic === 'HTML') {
  console.log("Let's study HTML!");
